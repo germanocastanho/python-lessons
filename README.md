@@ -1,6 +1,6 @@
 # 🐍 Python Lessons
 
-Este repositório contém uma série de **lições de Python** organizadas em notebooks [**jupyter**](https://jupyter.org/), cada um contendo resumos e exemplos de código. Trata-se de minhas anotações pessoais para o aprendizado da linguagem, com foco em conceitos fundamentais e principais bibliotecas.
+Este repositório contém uma série de **lições de Python** organizadas em notebooks [**jupyter**](https://jupyter.org/), cada um contendo resumos e exemplos de código. Trata-se de minhas anotações pessoais para o aprendizado da linguagem, com foco em conceitos fundamentais e principais bibliotecas. 📚
 
 # 🚀 Funcionalidades
 
