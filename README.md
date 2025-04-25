@@ -8,6 +8,10 @@ Este repositório contém uma série de **lições de Python** organizadas em no
 - Exemplos de código para ilustrar os conceitos.
 - Notebooks interativos para o aprendizado.
 
+# ✅ Pré-requisitos
+
+- Python 3.12 ou superior, disponível através do [**site oficial**](https://www.python.org/downloads/).
+
 # 🛠️ Instalação Local
 
 ```bash
