@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 # Acesse o notebook desejado
 cd lessons
-jupyter lab <arquivo.ipynb>
+jupyter-lab <arquivo.ipynb>
 ```
 
 # 📜 Software Livre
